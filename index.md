@@ -13,7 +13,7 @@ Contents of this Privacy Protection Policy: The content of this privacy protecti
 
 **Use of Personal Data:**
 
-1. Disclosure, lease, or resale 
+1.Disclosure, lease, or resale 
 
 (1). [Mega Tongits] will only use your personal data within the scope of the specific purpose of
 
@@ -29,7 +29,7 @@ c) Explanation before data provision: If you need to share your data with a thir
 
 If it is necessary to provide your data to a third party due to the above needs, [Mega Tongits] will also strictly require them to comply with their confidentiality obligations, and take necessary inspection procedures to ensure that they will indeed comply with
 
-2.  Share and push relevant instructions: 
+2.Share and push relevant instructions: 
 
 (1) Sharing
 
@@ -57,7 +57,7 @@ ii). We may send you service-related notices when necessary (for example, when w
 
 If you do not want to continue to receive messages pushed by us, you can ask us to stop pushing, for example, set the mobile device so that you will no longer receive messages pushed by us, but we will send messages in accordance with the law or the service agreement of a single service. except in the case of.
 
-3. Modification and deletion of personal data
+3.Modification and deletion of personal data
 
 After you register as a member in 【Mega Tongits】, you can use your account number and password to change any data you originally provided (address, phone number, email address, etc...) at any time. However, the data you can modify does not include your past service content records on this website. In addition, when your account is suspended, the activity records of the various services you have participated in will not disappear along with the account suspension.
 
